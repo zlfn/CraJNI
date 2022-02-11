@@ -1,0 +1,6 @@
+name: Crajni
+version: '${version}'
+main: com.iroom.crajni.Crajni
+api-version: 1.16
+authors: [ zlfn ]
+description: CraJNI plugin
